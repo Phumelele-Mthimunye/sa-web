@@ -1,0 +1,46 @@
+#cont{
+    border: 1px solid black;
+    width: 500px;
+    margin: 10px auto;
+    height: 100vh;
+}
+
+h1{
+    text-align: center;
+    margin: 10px auto;
+    font-size: 300%;
+}
+
+#login{
+    text-align: center;
+    margin: 30px auto;
+    font-size: 200%;
+    margin-bottom: 100px;
+}
+
+input{
+    display: inline-block;
+    width: 200px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+label{
+    margin-left: 20px;
+    display: inline-block;
+    width: 100px;
+    
+}
+
+#log{
+    width: 100px;
+    height: 40px;
+
+}
+
+#logd{
+    margin: 40px auto;
+    width: 100%;
+    padding-left: 170px;
+}
+
